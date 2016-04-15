@@ -29,7 +29,7 @@ if __name__ == '__main__':
     user_creds_file = 'musicbrainz_creds.txt'
     setup_creds(user_creds_file)
     # now load data
-    data_file_name = 'Data/ydata-ymusic-artist-names-v1_0.txt'
+    data_file_name = 'Data/artist_names.tsv'
     fieldnames = ['ydata_id','artist_name']
     # and simultaneously write to file ;_;
     out_file_name = 'Data/artist_metadata.tsv'
