@@ -1,4 +1,5 @@
 # Music Ratings Project
+## ISYE 6739 Spring 2016
 
 Basic, sloppy code to mine some metadata about musical artists to compare with user-generated ratings. Get that .tsv data file in your Data/ dir and we'll go from there.
 Should use virtualenv for dependencies (I'm probably doing this wrong...should be a way to include all local dependencies):
